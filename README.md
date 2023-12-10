@@ -17,3 +17,5 @@ Other dependencies as listed in package.json.
 2. Install dependencies: `npm install`
 3. Run the app: `npx expo start`
 
+## Screenshots
+![App Screenshot](./assets/screenshot.png)
